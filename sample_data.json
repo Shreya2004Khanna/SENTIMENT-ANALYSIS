@@ -1,0 +1,66 @@
+{
+  "ai": [
+    {
+      "id": "1",
+      "text": "AI is transforming healthcare — amazing possibilities ahead!",
+      "sentiment": {"neg": 0.0, "neu": 0.45, "pos": 0.55, "compound": 0.8},
+      "category": "Positive"
+    },
+    {
+      "id": "2",
+      "text": "I'm not sure about the hype around AI. It's okay, I guess.",
+      "sentiment": {"neg": 0.1, "neu": 0.8, "pos": 0.1, "compound": 0.0},
+      "category": "Neutral"
+    },
+    {
+      "id": "3",
+      "text": "AI deployments often ignore edge cases — that's frustrating.",
+      "sentiment": {"neg": 0.6, "neu": 0.3, "pos": 0.1, "compound": -0.6},
+      "category": "Highly Negative"
+    },
+    {
+      "id": "4",
+      "text": "Model accuracy dropped after the last update, needs work.",
+      "sentiment": {"neg": 0.4, "neu": 0.5, "pos": 0.1, "compound": -0.3},
+      "category": "Less Negative"
+    },
+    {
+      "id": "5",
+      "text": "Looking forward to ethical guidelines for AI development.",
+      "sentiment": {"neg": 0.0, "neu": 0.6, "pos": 0.4, "compound": 0.34},
+      "category": "Positive"
+    }
+  ],
+  "tesla": [
+    {
+      "id": "101",
+      "text": "Tesla stock hits new high — Elon's vision is paying off!",
+      "sentiment": {"neg": 0.0, "neu": 0.4, "pos": 0.6, "compound": 0.7},
+      "category": "Positive"
+    },
+    {
+      "id": "102",
+      "text": "Tesla's new Cybertruck design is interesting, but I'm skeptical about production.",
+      "sentiment": {"neg": 0.1, "neu": 0.75, "pos": 0.15, "compound": 0.1},
+      "category": "Neutral"
+    },
+    {
+      "id": "103",
+      "text": "Tesla factory delays and safety concerns are really troubling.",
+      "sentiment": {"neg": 0.65, "neu": 0.25, "pos": 0.1, "compound": -0.65},
+      "category": "Highly Negative"
+    },
+    {
+      "id": "104",
+      "text": "Tesla's battery tech needs improvement — range still disappoints.",
+      "sentiment": {"neg": 0.5, "neu": 0.4, "pos": 0.1, "compound": -0.4},
+      "category": "Less Negative"
+    },
+    {
+      "id": "105",
+      "text": "Looking forward to Tesla's next innovation in renewable energy.",
+      "sentiment": {"neg": 0.0, "neu": 0.5, "pos": 0.5, "compound": 0.6},
+      "category": "Positive"
+    }
+  ]
+}
